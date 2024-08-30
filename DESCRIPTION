@@ -1,0 +1,16 @@
+Package: CellProjectedPhenotypes
+Type: Package
+Title: Projecting donor-level phenotypes onto single cells
+Version: 1.0.0
+Authors@R:
+	c(person("Gerard", "Bouland", role=c("aut", "cre"), email="gbouland@mit.edu", comment=c(ORCID="0000-0002-4311-8725")),
+	person("Riley", "Mangan", role=c("aut", "ctb"), email="rimangan@mit.edu", comment=c(ORCID="0000-0003-3342-3934")))
+	person("Manolis", "Kellis", role=c("aut", "and"), email="manoli@mit.edu", comment=c(ORCID="0000-0001-7113-9630")))
+Description: CellProjectedPhenotypes projects donor-level phenotypes, such as diagnostic labels or polygenic risk scores, onto single-cells, based on the proximity between cells and phenotype associated cell transcriptional neighborhoods.
+License: GPL-3 + file LICENSE
+Encoding: UTF-8
+URL: https://github.com/KellisLab/CellProjectedPhenotypes
+BugReports: https://github.com/KellisLab/CellProjectedPhenotypes/issues
+Depends: R (>= 4.0.0)
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
