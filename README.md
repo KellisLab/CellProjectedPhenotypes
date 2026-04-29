@@ -88,6 +88,10 @@ We welcome contributions and suggestions from the community. Please report ideas
 This package is licensed under the GPL-3 License. 
 
 ## Authors
-* **Gerard Bouland** Author and maintainer
-* **Riley J. Mangan** Author and contributor
+* **Riley J. Mangan** Author and maintainer
+* **Gerard Bouland** Author and contributer
 * **Manolis Kellis** Author and oversight
+
+## Citation
+We ask that the following publication be cited in work using the CPP methodology or code base:
+Mangan, Riley J. and Bouland, Gerard A. and Schubert, Tim and Anwer, Danish and Bai, Judy and Ekiz, Gülfem and Pigadas, Nicolas and Dattatri, Amogh and Polster, Annikka and Mahfouz, Ahmed and Reinders, Marcel and Kellis, Manolis, Cell-projected Phenotypes Link Transcriptional and Phenotypic Heterogeneity in Alzheimer’s Disease. Available at SSRN: https://ssrn.com/abstract=6615879 or http://dx.doi.org/10.2139/ssrn.6615879
